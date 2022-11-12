@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "rome.rome",
+  "[typescript]": {
+    "editor.defaultFormatter": "rome.rome"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rome.rome"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.rome.rome": true,
+    "source.fixAll.rome": true,
+    "source.fixAll": true
+  }
+}
