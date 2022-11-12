@@ -1,11 +1,14 @@
 {
-  "editor.defaultFormatter": "rome.rome",
   "[typescript]": {
     "editor.defaultFormatter": "rome.rome"
   },
   "[javascript]": {
     "editor.defaultFormatter": "rome.rome"
   },
+  "[json]": {
+    "editor.defaultFormatter": "rome.rome"
+  },
+  "editor.defaultFormatter": "rome.rome",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.codeActionsOnSave": {
